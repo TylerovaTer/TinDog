@@ -1,4 +1,2 @@
 # TinDog
-Training page for bootstrap
-, non responsive yet,
-https://tylerovater.github.io/TinDog/
+Training page for bootstrap,<br> non responsive yet,<br> https://tylerovater.github.io/TinDog/
